@@ -1,0 +1,33 @@
+{
+  "assets": [
+	{
+	"token_id"	: "1883",
+	"name"		: "Somnium Art Gallery",
+	"categories": ["gallery","art"],
+	"tags"		: ["art","crypto art"],
+	"images"	: [{}]
+	},
+	{
+	"token_id"	: "2590",
+	"name"		: "Club Hex",
+	"categories": ["music","live"],
+	"tags"		: ["music","live","club","club hex"],
+	"images"	: [{}]
+	},
+	{
+	"token_id"	: "2682",
+	"name"		: "Museum of Crypto Art (M○C△)",
+	"categories": ["gallery","museum","art"],
+	"tags"		: ["art","crypto art","moca"],
+	"images"	: [{}]
+	},	
+	{
+	"token_id"	: "1234",
+	"name"		: "Disco Club",
+	"categories": ["music","live"],
+	"tags"		: ["music","live","club","disco club"],
+	"images"	: [{}]
+	}	
+  ]
+}
+
