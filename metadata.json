@@ -4,7 +4,7 @@
 	"token_id"	: "1883",
 	"name"		: "Somnium Art Gallery",
 	"categories": ["gallery","art"],
-	"tags"		: ["art","crypto art","marcdemar"],
+	"tags"		: ["art","crypto art","marcdemar","test"],
 	"images"	: [{}]
 	},
 	{
@@ -25,7 +25,7 @@
 	"token_id"	: "1234",
 	"name"		: "Disco Club",
 	"categories": ["music","live"],
-	"tags"		: ["music","live","club","disco club"],
+	"tags"		: ["music","live","club","disco club", "test"],
 	"images"	: [{}]
 	}	
   ]
