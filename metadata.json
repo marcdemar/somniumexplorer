@@ -20,7 +20,14 @@
 	"categories": ["gallery","museum","art"],
 	"tags"		: ["art","crypto art","moca"],
 	"images"	: [{}]
-	},	
+	},
+	{
+	"token_id"	: "443",
+	"name"		: "Somnium Museum of True Crime",
+	"categories": ["museum","art"],
+	"tags"		: ["museum","crime","true crime"],
+	"images"	: [{}]
+	},		  
 	{
 	"token_id"	: "1234",
 	"name"		: "Disco Club",
