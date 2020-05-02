@@ -1,6 +1,38 @@
 {
   "assets": [
 	{
+	"token_id"	: "503",
+	"name"		: "Baytree Convention Centre",
+	"description"	: "Meeting rooms and a top floor auditorium",	
+	"categories"	: ["meetings/conferences"],
+	"tags"		: ["meeting","conference","auditorium","snakebite"],
+	"images"	: [{}]
+	},
+	{
+	"token_id"	: "530",
+	"name"		: "London Museum of History",
+	"description"	: "A Museum depicting various London landmarks and offering historical tours via Audio displays and personal guided tours",	
+	"categories"	: ["museums"],
+	"tags"		: ["museum","london","history","snakebite"],
+	"images"	: [{}]
+	},	  
+	{
+	"token_id"	: "779",
+	"name"		: "London Museum of History",
+	"description"	: "A Museum depicting various London landmarks and offering historical tours via Audio displays and personal guided tours",	
+	"categories"	: ["museums"],
+	"tags"		: ["museum","london","history","snakebite"],
+	"images"	: [{}]
+	},
+	{
+	"token_id"	: "836",
+	"name"		: "London Museum of History",
+	"description"	: "A Museum depicting various London landmarks and offering historical tours via Audio displays and personal guided tours",	
+	"categories"	: ["museums"],
+	"tags"		: ["museum","london","history","snakebite"],
+	"images"	: [{}]
+	},	    
+	{
 	"token_id"	: "1883",
 	"name"		: "Somnium Art Gallery",
 	"categories"	: ["galleries","art"],
