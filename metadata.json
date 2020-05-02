@@ -12,24 +12,24 @@
 	"token_id"	: "530",
 	"name"		: "London Museum of History",
 	"description"	: "A Museum depicting various London landmarks and offering historical tours via Audio displays and personal guided tours",	
-	"categories"	: ["museums"],
-	"tags"		: ["museum","london","history","snakebite"],
+	"categories"	: ["museums","tours"],
+	"tags"		: ["museum","london","history","tour","snakebite"],
 	"images"	: [{}]
 	},	  
 	{
 	"token_id"	: "779",
 	"name"		: "London Museum of History",
 	"description"	: "A Museum depicting various London landmarks and offering historical tours via Audio displays and personal guided tours",	
-	"categories"	: ["museums"],
-	"tags"		: ["museum","london","history","snakebite"],
+	"categories"	: ["museums","tours"],
+	"tags"		: ["museum","london","history","tour","snakebite"],
 	"images"	: [{}]
 	},
 	{
 	"token_id"	: "836",
 	"name"		: "London Museum of History",
 	"description"	: "A Museum depicting various London landmarks and offering historical tours via Audio displays and personal guided tours",	
-	"categories"	: ["museums"],
-	"tags"		: ["museum","london","history","snakebite"],
+	"categories"	: ["museums","tours"],
+	"tags"		: ["museum","london","history","tour","snakebite"],
 	"images"	: [{}]
 	},	    
 	{
@@ -39,6 +39,14 @@
 	"tags"		: ["art","crypto art","marcdemar","test"],
 	"images"	: [{}]
 	},
+	{
+	"token_id"	: "1979",
+	"name"		: "The Space House",
+	"description"	: "A discussion location for all those who wonder if we ever went to the moon in 69",	
+	"categories"	: ["museums","other"],
+	"tags"		: ["museum","moon","moon landing","conspiracy","snakebite"],
+	"images"	: [{}]
+	},	  	  
 	{
 	"token_id"	: "2712",
 	"name"		: "Club Hex",
@@ -61,12 +69,13 @@
 	"images"	: [{}]
 	},		  
 	{
-	"token_id"	: "1234",
-	"name"		: "Disco Club",
-	"categories"	: ["music","entertainment"],
-	"tags"		: ["music","live","club","disco club", "test"],
+	"token_id"	: "4286",
+	"name"		: "Guild Hall",
+	"description"	: "A chance to tour the Oldest Town in Wales with a personal tour guide",	
+	"categories"	: ["museums","tours"],
+	"tags"		: ["museum","wales","tour","snakebite"],
 	"images"	: [{}]
-	}	
+	}	  	  	
   ]
 }
 
