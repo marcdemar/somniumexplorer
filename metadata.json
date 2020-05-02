@@ -12,7 +12,7 @@
 	"token_id"	: "503",
 	"name"		: "Baytree Convention Centre",
 	"description"	: "Meeting rooms and a top floor auditorium",	
-	"categories"	: ["meetings/conferences"],
+	"categories"	: ["venues"],
 	"tags"		: ["meeting","conference","auditorium","snakebite"],
 	"images"	: [{}]
 	},
