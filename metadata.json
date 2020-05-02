@@ -6,7 +6,7 @@
 	"description"	: "Homage to DragonBallZ and all fans. Iconic battle between Goku and Freiza.",	
 	"categories"	: ["homage"],
 	"tags"		: ["dragonballz","anime","goku","freiza","sol"],
-	"preview_img"	: "",	
+	"preview_img"	: "https://somniumtimes.com/wp-content/uploads/2020/05/preview_296.jpg",	
 	"images"	: [{}]
 	},	  
 	{
@@ -15,7 +15,7 @@
 	"description"	: "Meeting rooms and a top floor auditorium",	
 	"categories"	: ["venues"],
 	"tags"		: ["meeting","conference","auditorium","snakebite"],
-	"preview_img"	: "",			
+	"preview_img"	: "https://somniumtimes.com/wp-content/uploads/2020/02/somniumspace-1.jpg",			
 	"images"	: [{}]
 	},
 	{
@@ -24,7 +24,7 @@
 	"description"	: "A Museum depicting various London landmarks and offering historical tours via Audio displays and personal guided tours",	
 	"categories"	: ["museums","tours"],
 	"tags"		: ["museum","london","history","tour","snakebite"],
-	"preview_img"	: "",			
+	"preview_img"	: "https://somniumtimes.com/wp-content/uploads/2020/02/somniumspace-1.jpg",			
 	"images"	: [{}]
 	},	  
 	{
@@ -33,7 +33,7 @@
 	"description"	: "A Museum depicting various London landmarks and offering historical tours via Audio displays and personal guided tours",	
 	"categories"	: ["museums","tours"],
 	"tags"		: ["museum","london","history","tour","snakebite"],
-	"preview_img"	: "",			
+	"preview_img"	: "https://somniumtimes.com/wp-content/uploads/2020/02/somniumspace-1.jpg",			
 	"images"	: [{}]
 	},
 	{
@@ -42,7 +42,7 @@
 	"description"	: "A Museum depicting various London landmarks and offering historical tours via Audio displays and personal guided tours",	
 	"categories"	: ["museums","tours"],
 	"tags"		: ["museum","london","history","tour","snakebite"],
-	"preview_img"	: "",			
+	"preview_img"	: "https://somniumtimes.com/wp-content/uploads/2020/02/somniumspace-1.jpg",			
 	"images"	: [{}]
 	},	    
 	{
@@ -51,7 +51,7 @@
 	"description"	: "Gallery where Somnium Space meets art. Common for all pieces is that they have a relation to the VR world in which they are on display",			
 	"categories"	: ["galleries","art"],
 	"tags"		: ["art","crypto art","marcdemar","test"],
-	"preview_img"	: "",			
+	"preview_img"	: "https://somniumtimes.com/wp-content/uploads/2020/02/somniumspace-1.jpg",			
 	"images"	: [{}]
 	},
 	{
@@ -60,7 +60,7 @@
 	"description"	: "A discussion location for all those who wonder if we ever went to the moon in 69",	
 	"categories"	: ["museums","other"],
 	"tags"		: ["museum","moon","moon landing","conspiracy","snakebite"],
-	"preview_img"	: "",			
+	"preview_img"	: "https://somniumtimes.com/wp-content/uploads/2020/02/somniumspace-1.jpg",			
 	"images"	: [{}]
 	},	  	  
 	{
@@ -69,7 +69,7 @@
 	"description"	: "On the southern shores of Deep Oasis Lake stands Club Hex, one of the first exclusive dance venues in Somnium",			
 	"categories"	: ["music","entertainment"],
 	"tags"		: ["music","live","club","club hex"],
-	"preview_img"	: "",			
+	"preview_img"	: "https://somniumtimes.com/wp-content/uploads/2020/02/somniumspace-1.jpg",			
 	"images"	: [{}]
 	},
 	{
@@ -78,7 +78,7 @@
 	"description"	: "Moca",					
 	"categories"	: ["galleries","museums","art"],
 	"tags"		: ["art","crypto art","moca","museum"],
-	"preview_img"	: "",			
+	"preview_img"	: "https://somniumtimes.com/wp-content/uploads/2020/02/somniumspace-1.jpg",			
 	"images"	: [{}]
 	},		  
 	{
@@ -87,7 +87,7 @@
 	"description"	: "A chance to tour the Oldest Town in Wales with a personal tour guide",	
 	"categories"	: ["museums","tours"],
 	"tags"		: ["museum","wales","tour","snakebite"],
-	"preview_img"	: "",			
+	"preview_img"	: "https://somniumtimes.com/wp-content/uploads/2020/02/somniumspace-1.jpg",			
 	"images"	: [{}]
 	}	  	  	
   ]
