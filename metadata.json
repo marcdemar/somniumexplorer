@@ -1,6 +1,14 @@
 {
   "assets": [
 	{
+	"token_id"	: "296",
+	"name"		: "Dragon Ball Z: Goku VS Freiza",
+	"description"	: "Homage to DragonBallZ and all fans. Iconic battle between Goku and Freiza.",	
+	"categories"	: ["homage"],
+	"tags"		: ["dragonballz","anime","goku","freiza","sol"],
+	"images"	: [{}]
+	},	  
+	{
 	"token_id"	: "503",
 	"name"		: "Baytree Convention Centre",
 	"description"	: "Meeting rooms and a top floor auditorium",	
