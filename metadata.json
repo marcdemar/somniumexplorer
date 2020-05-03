@@ -127,6 +127,15 @@
 	"images"	: [{}]
 	},		  
 	{
+	"token_id"	: "3697",
+	"name"		: "Tilted glass House",
+	"description"	: "Glass look out point on the shore front. On the cost line take advantage of the mountain views form a different perspective. This meeting place has a capacity to do talks with 360 views of Somnium Space. travel north and follow the shore line to find. Designed to inspire!",					
+	"categories"	: ["architecture"],
+	"tags"		: ["architecture","wilson","glass house","glass"],
+	"preview_img"	: "https://somniumtimes.com/wp-content/uploads/2020/05/preview_3697.jpg",			
+	"images"	: [{}]
+	},
+	{
 	"token_id"	: "3911",
 	"name"		: "D2D",
 	"description"	: "Waterfront after hours club with live DJ's Liquid DnB, melodic techno and deep house on three levels. Night room, Dawn set and chill. Teleporter onsite: Often.",	
