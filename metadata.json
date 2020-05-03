@@ -161,6 +161,15 @@
 	"tags"		: ["game","arcade","mickyelloow"],
 	"preview_img"	: "https://somniumtimes.com/wp-content/uploads/2020/02/somniumspace-1.jpg",			
 	"images"	: [{}]
+	},
+	{
+	"token_id"	: "4944",
+	"name"		: "Blue Light House",
+	"description"	: "Iconic blue light house. One of the first builds in Somnium.",					
+	"categories"	: ["architecture"],
+	"tags"		: ["architecture","lighthouse","blue","snakebite"],
+	"preview_img"	: "https://somniumtimes.com/wp-content/uploads/2020/05/preview_4944.jpg",			
+	"images"	: [{}]
 	}	  
   ]
 }
