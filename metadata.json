@@ -118,6 +118,15 @@
 	"images"	: [{}]
 	},		  
 	{
+	"token_id"	: "3911",
+	"name"		: "D2D",
+	"description"	: "Waterfront after hours club with live DJ's Liquid DnB, melodic techno and deep house on three levels. Night room, Dawn set and chill. Teleporter onsite: Often.",	
+	"categories"	: ["music","entertainment"],
+	"tags"		: ["music","club","live","dj","dnb","techno","deep house","house","altvrat"],
+	"preview_img"	: "https://somniumtimes.com/wp-content/uploads/2020/05/preview_3911.jpg",	
+	"images"	: [{}]
+	},	  
+	{
 	"token_id"	: "4286",
 	"name"		: "Guild Hall",
 	"description"	: "A chance to tour the Oldest Town in Wales with a personal tour guide",	
