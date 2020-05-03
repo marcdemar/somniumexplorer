@@ -35,7 +35,16 @@
 	"tags"		: ["museum","london","history","tour","snakebite"],
 	"preview_img"	: "https://somniumtimes.com/wp-content/uploads/2020/03/snakey-1.jpg",			
 	"images"	: [{}]
-	},	  
+	},
+	{
+	"token_id"	: "685",
+	"name"		: "Mickyelloow Productions Studios",
+	"description"	: "A fully fledged studio containing an exhibition of Mickyelloow's progress in 3D modelling, an entire arcade of games made by him (with prizes to win) and a roller coaster to top it off.",	
+	"categories"	: ["exhibitions"],
+	"tags"		: ["exhibition","studio","3d","3d modelling","games","mickyelloow"],
+	"preview_img"	: "https://somniumtimes.com/wp-content/uploads/2020/02/somniumspace-1.jpg",			
+	"images"	: [{}]
+	},	    	  
 	{
 	"token_id"	: "779",
 	"name"		: "London Museum of History",
@@ -55,11 +64,20 @@
 	"images"	: [{}]
 	},	    
 	{
+	"token_id"	: "1093",
+	"name"		: "A Bird's Eye View",
+	"description"	: "Gallery of the indie game developer Mickyelloow presenting some of his other work that aren't game related and some beautiful screenshots from his games as well.",	
+	"categories"	: ["galleries","art"],
+	"tags"		: ["gallery","art","mickyelloow"],
+	"preview_img"	: "https://somniumtimes.com/wp-content/uploads/2020/02/somniumspace-1.jpg",			
+	"images"	: [{}]
+	},	    
+	{
 	"token_id"	: "1742",
 	"name"		: "Somniplex",
 	"description"	: "A theater featuring a wide assortment of movies and films.",	
-	"categories"	: ["venue"],
-	"tags"		: ["theater","movies","films","alphaperry"],
+	"categories"	: ["venues"],
+	"tags"		: ["venue","theater","movies","films","alphaperry"],
 	"preview_img"	: "https://somniumtimes.com/wp-content/uploads/2020/02/somniumspace-1.jpg",			
 	"images"	: [{}]
 	},	    
@@ -68,7 +86,7 @@
 	"name"		: "Somnium Art Gallery",
 	"description"	: "Gallery where Somnium Space meets art. Common for all pieces is that they have a relation to the VR world in which they are on display",			
 	"categories"	: ["galleries","art"],
-	"tags"		: ["art","crypto art","marcdemar","test"],
+	"tags"		: ["art","crypto art","marcdemar"],
 	"preview_img"	: "https://somniumtimes.com/wp-content/uploads/2020/02/artgallery-2.jpg",			
 	"images"	: [{}]
 	},
