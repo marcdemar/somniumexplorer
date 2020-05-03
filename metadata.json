@@ -86,7 +86,7 @@
 	"name"		: "Somnium Art Gallery",
 	"description"	: "Gallery where Somnium Space meets art. Common for all pieces is that they have a relation to the VR world in which they are on display",			
 	"categories"	: ["galleries","art"],
-	"tags"		: ["art","crypto art","marcdemar"],
+	"tags"		: ["gallery","art","crypto art","marcdemar"],
 	"preview_img"	: "https://somniumtimes.com/wp-content/uploads/2020/02/artgallery-2.jpg",			
 	"images"	: [{}]
 	},
@@ -99,6 +99,15 @@
 	"preview_img"	: "https://somniumtimes.com/wp-content/uploads/2020/02/spacehouse.jpg",			
 	"images"	: [{}]
 	},	  	  
+	{
+	"token_id"	: "2639",
+	"name"		: "Art Gallery",
+	"description"	: "Artwork from Greg Notzelman aka Renderdog, artist on KO and MakersPlace",			
+	"categories"	: ["galleries","art"],
+	"tags"		: ["gallery","art","crypto art","renderdog"],
+	"preview_img"	: "https://somniumtimes.com/wp-content/uploads/2020/05/preview_2639.jpg",			
+	"images"	: [{}]
+	},
 	{
 	"token_id"	: "2712",
 	"name"		: "Club Hex",
