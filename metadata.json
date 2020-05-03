@@ -46,6 +46,15 @@
 	"images"	: [{}]
 	},	    
 	{
+	"token_id"	: "1742",
+	"name"		: "Somniplex",
+	"description"	: "A theater featuring a wide assortment of movies and films.",	
+	"categories"	: ["venue"],
+	"tags"		: ["theater","movies","films","alphaperry"],
+	"preview_img"	: "https://somniumtimes.com/wp-content/uploads/2020/02/somniumspace-1.jpg",			
+	"images"	: [{}]
+	},	    
+	{
 	"token_id"	: "1883",
 	"name"		: "Somnium Art Gallery",
 	"description"	: "Gallery where Somnium Space meets art. Common for all pieces is that they have a relation to the VR world in which they are on display",			
