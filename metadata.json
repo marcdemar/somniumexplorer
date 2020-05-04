@@ -170,6 +170,15 @@
 	"tags"		: ["architecture","lighthouse","blue","snakebite"],
 	"preview_img"	: "https://somniumtimes.com/wp-content/uploads/2020/05/preview_4944.jpg",			
 	"images"	: [{}]
+	},
+	{
+	"token_id"	: "4991",
+	"name"		: "Self proclaimed 'VR friend'",
+	"description"	: "Yellow and proud, looking out at the world which is evolving before him. See for yourself from inside his head.",					
+	"categories"	: ["architecture"],
+	"tags"		: ["architecture","wilson"],
+	"preview_img"	: "https://somniumtimes.com/wp-content/uploads/2020/05/preview_4991.jpg",			
+	"images"	: [{}]
 	}	  
   ]
 }
