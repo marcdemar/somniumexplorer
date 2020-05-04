@@ -145,6 +145,15 @@
 	"images"	: [{}]
 	},	  
 	{
+	"token_id"	: "4108",
+	"name"		: "The Campfire",
+	"description"	: "The campfire is a plot built for an outside space. It has a rooftop meeting space with offices on the 2nd floor.",					
+	"categories"	: ["architecture","venues"],
+	"tags"		: ["architecture","venue","wilson"],
+	"preview_img"	: "https://somniumtimes.com/wp-content/uploads/2020/05/preview_4108.jpg",			
+	"images"	: [{}]
+	},	  
+	{
 	"token_id"	: "4286",
 	"name"		: "Guild Hall",
 	"description"	: "A chance to tour the Oldest Town in Wales with a personal tour guide",	
