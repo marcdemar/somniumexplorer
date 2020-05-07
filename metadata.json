@@ -107,23 +107,23 @@
 	"tags"		: ["museum","moon","moon landing","conspiracy","snakebite"],
 	"preview_img"	: "https://somniumtimes.com/wp-content/uploads/2020/02/spacehouse.jpg",			
 	"images"	: [{}]
-	},	  	  
+	},	  	   
 	{
 	"token_id"	: "2238",
-	"name"		: "Arts Centre",
-	"description"	: "Indie performance and art space, hosting regular exhibitions and events. Only a short walk from the city centre.",	
-	"categories"	: ["art","galleries"],
-	"tags"		: ["gallery","art","somyam19"],
-	"preview_img"	: "https://somniumtimes.com/wp-content/uploads/2020/05/preview_2238.jpg",	
-	"images"	: [{}]
-	},  
-	{
-	"token_id"	: "2369",
 	"name"		: "Jovian Temple",
 	"description"	: "Carved out of black stone, this small temple is a quiet space to meditate on the vastness of the universe, or just to take a break on the journey from the city centre.",	
 	"categories"	: ["other"],
 	"tags"		: ["temple","jovian","somyam19"],
 	"preview_img"	: "https://somniumtimes.com/wp-content/uploads/2020/05/preview_2369.jpg",	
+	"images"	: [{}]
+	},	  
+	{
+	"token_id"	: "2369",
+	"name"		: "Arts Centre",
+	"description"	: "Indie performance and art space, hosting regular exhibitions and events. Only a short walk from the city centre.",	
+	"categories"	: ["art","galleries"],
+	"tags"		: ["gallery","art","somyam19"],
+	"preview_img"	: "https://somniumtimes.com/wp-content/uploads/2020/05/preview_2238.jpg",	
 	"images"	: [{}]
 	},	  
 	{
