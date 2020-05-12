@@ -154,6 +154,15 @@
 	"images"	: [{}]
 	},		  
 	{
+	"token_id"	: "3027",
+	"name"		: "The Grand Eagle Statue of Freedom",
+	"description"	: "A giant 45 meter tall eagle statue near Mount Proximat with an underground temple. This is the first statue to ever exist inside Somnium Space.",					
+	"categories"	: ["other"],
+	"tags"		: ["monument","statue","temple","mickyelloow"],
+	"preview_img"	: "https://somniumtimes.com/wp-content/uploads/2020/02/somniumspace-1.jpg",			
+	"images"	: [{}]
+	},		    
+	{
 	"token_id"	: "3697",
 	"name"		: "Tilted glass House",
 	"description"	: "Glass look out point on the shore front. On the coast line take advantage of the mountain views from a different perspective. This meeting place has a capacity to do talks with 360 views of Somnium Space. Travel north and follow the shore line to find. Designed to inspire!",					
