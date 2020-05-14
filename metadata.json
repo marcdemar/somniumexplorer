@@ -190,6 +190,15 @@
 	"images"	: [{}]
 	},	  
 	{
+	"token_id"	: "4147",
+	"name"		: "Wooden House",
+	"description"	: "Waterfront medium 'wooden house'",					
+	"categories"	: ["architecture"],
+	"tags"		: ["architecture","sol"],
+	"preview_img"	: "https://somniumtimes.com/wp-content/uploads/2020/05/preview_4147.jpg",			
+	"images"	: [{}]
+	},	  
+	{
 	"token_id"	: "4286",
 	"name"		: "Guild Hall",
 	"description"	: "A chance to tour the Oldest Town in Wales with a personal tour guide",	
